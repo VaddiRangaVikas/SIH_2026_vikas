@@ -49,8 +49,8 @@ Detailed project documentation is maintained under [`docs/`](docs/).
 
 Start with:
 
-* [`docs/PS/requirements-matrix.md`](docs/ps/requirements-matrix.md) — Problem statement and requirements
-* [`docs/architecture/system-architecture.md`](docs/architecture/) — System architecture
+* [`docs/PS/requirements-matrix.md`](docs/PS/requirements-matrix.md) — Problem statement and requirements
+* [`docs/architecture/system-architecture.md`](docs/architecture/system-architecture.md) — System architecture
 * [`docs/api/`](docs/api/) — API documentation
 * [`docs/security/`](docs/security/) — Security architecture
 * [`docs/demo/`](docs/demo/) — Prototype and demonstration flow
